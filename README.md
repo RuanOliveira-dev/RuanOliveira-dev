@@ -1,16 +1,29 @@
-## Hi there 👋
+# 👨‍💻 Ruan Lima Olivera
 
-<!--
-**RuanOliveira-dev/RuanOliveira-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Aluno de Análise e Desenvolvimento de Sistemas  
+🐍 Foco principal: Desenvolvimento com Python   
+📧 Contato: [ruan030808@gmail.com] | [LinkedIn](https://www.linkedin.com/in/ruan-oliveira-338659325/)  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Sobre Mim
+
+Sou estudante de Análise e Desenvolvimento de Sistemas com grande interesse em desenvolvimento backend. Tenho me dedicado ao aprendizado contínuo da linguagem **Python**, além de explorar boas práticas de programação e versionamento com Git.
+
+---
+
+## 💻 Tecnologias e Ferramentas
+
+- 🔹 **Linguagens:** Python, SQL, HTML, CSS, JavaScript (básico)
+- 🔹 **Frameworks:** Flask
+- 🔹 **Banco de Dados:** SQLite
+- 🔹 **Ferramentas:** Git, GitHub, VS Code, Postman
+
+---
+
+## 📈 Estatísticas do GitHub
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RuanOliveira-dev&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RuanOliveira-dev&layout=compact&theme=dark)
+
+---
