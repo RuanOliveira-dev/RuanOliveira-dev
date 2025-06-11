@@ -2,7 +2,7 @@
 
 🎓 Aluno de Análise e Desenvolvimento de Sistemas  
 🐍 Foco principal: Desenvolvimento com Python   
-📧 Contato: [ruan030808@gmail.com] | [LinkedIn](https://www.linkedin.com/in/ruan-oliveira-338659325/)  
+📧 Contato: ruan030808@gmail.com | [LinkedIn](https://www.linkedin.com/in/ruan-oliveira-338659325/)  
 
 ---
 
