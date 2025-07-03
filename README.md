@@ -1,4 +1,4 @@
-# 👨‍💻 Ruan Lima Olivera
+# 👨‍💻 Ruan Lima Oliveira
 
 🎓 Aluno de Análise e Desenvolvimento de Sistemas  
 🐍 Foco principal: Desenvolvimento com Python   
@@ -23,7 +23,10 @@ Sou estudante de Análise e Desenvolvimento de Sistemas com grande interesse em 
 
 ## 📈 Estatísticas do GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RuanOliveira-dev&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RuanOliveira-dev&layout=compact&theme=dark)
+<div>
+  <a href="https://github.com/ruan-codes">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ruan-codes&show_icons=true&theme=dark&include_all_commits=true&cont_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruan-codes&layout=compact&langs_count=8&theme=dark"/>
+</div>
 
 ---
